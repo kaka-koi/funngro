@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kaka-koi.github.io/funngro/sitemap.xml
